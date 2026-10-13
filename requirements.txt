@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pyngrok
+langchain
+langchain-google-genai
+google-auth
